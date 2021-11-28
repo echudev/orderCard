@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://echucode.github.io/orderCard)
+- Solution URL: https://echucode.github.io/orderCard/
 
 ### Built with
 
